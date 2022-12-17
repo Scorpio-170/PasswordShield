@@ -9,6 +9,6 @@ https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-l
 https://www.youtube.com/watch?v=-f8N4FEQWyY  
 https://www.youtube.com/watch?v=lL_aols7Yl4&ab_channel=Fraser  
 2. Download and extract the source codes including the folder FYPPHP
-3.
-4.
-5.
+3. Place folder in htdocs folder within Xampp folder path 
+4. Download database configuration
+5. Add database with pre-configured tables
